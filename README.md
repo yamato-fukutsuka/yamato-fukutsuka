@@ -1,5 +1,5 @@
-# Backend Developer in Japan👋
-### Just 20 years old 
+# Frontend Developer in Japan👋
+### Just 22 years old 
 ### Feel free to contact me anytime!👍
 #
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
@@ -22,15 +22,16 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,firebase,react,vue,next,sqlite,mysql,github,vscode,docker,laravel,cakephp,discord,php,gutlab,jquery,aws,vite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,next,prisma,postgresql,github,vscode,cursor,azure" /> <br /><br />
 
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
+  ※一番得意なもの
+  React,Next.js,Typescript...でのフロントエンド開発
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=react,next,typescript,mysql,laravel,docker,vscode,github" /> <br /><br />
-
+<img src="https://skillicons.dev/icons?i=pytorch" /> <br /><br />
+ 
+  ※機械学習の勉強中です。
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
