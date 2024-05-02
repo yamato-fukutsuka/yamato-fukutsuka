@@ -12,7 +12,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=pytorch" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,aws" /> <br /><br />
  
   ※機械学習の勉強中です。
 
