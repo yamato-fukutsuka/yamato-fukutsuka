@@ -1,8 +1,5 @@
 # Frontend Developer in Japan👋
 ### 23 years old 
-### 熊本大学情報電気工学科情報専攻
-### ご気軽にご連絡ください!👍
-
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
