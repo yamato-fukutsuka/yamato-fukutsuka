@@ -3,13 +3,13 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,next,prisma,postgresql,mysql,github,vscode,azure" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,next,prisma,postgresql,github,vscode,azure" /> <br /><br />
 
   ※一番得意なもの：React,Next.js,Typescript...でのフロントエンド開発
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=pytorch,aws" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=pytorch,aws,mysql" /> <br /><br />
  
   ※機械学習の勉強中です。
 
