@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
+[![My Twitter Followers](https://badgen.net/twitter/follow/yamato_fuku)](https://twitter.com/yamato_fuku)
 
 
 # NOW TRAINING
@@ -22,7 +22,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,next,prisma,postgresql,github,vscode,cursor,azure" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,react,next,prisma,postgresql,github,vscode,azure" /> <br /><br />
 
   ※一番得意なもの
   React,Next.js,Typescript...でのフロントエンド開発
