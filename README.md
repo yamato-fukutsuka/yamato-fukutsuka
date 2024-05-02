@@ -1,23 +1,7 @@
 # Frontend Developer in Japan👋
-### Just 22 years old 
+### 23 years old 
+### 熊本大学情報電気工学科情報専攻
 ### ご気軽にご連絡ください!👍
-#
-![yamato_fukutsuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=yamato_fukutsuka&show_icons=true&theme=vue-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamato_fukutsuka&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamato_fukutsuka&theme=discord)](https://github.com/yamato_fukutsuka/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/yamato_fuku)](https://twitter.com/yamato_fuku)
-
-
-# X ＆Gmail
-
-<p align="left">
-<a href="https://twitter.com/yamato_fuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamato_fuku" height="30" width="40" /></a>
-<a href="yfukutsuka119221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[yfukutsuka119221@gmail.com]"/></a>
-</p>
-
 
 
 # My Skill (Programming Languages, Frameworks and Tools)
@@ -33,6 +17,13 @@
   ※機械学習の勉強中です。
 
 <!-- --------------------------------- :) ---------------------------------- -->
+
+# X ＆Gmail
+
+<p align="left">
+<a href="https://twitter.com/yamato_fuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamato_fuku" height="30" width="40" /></a>
+<a href="yfukutsuka119221@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[yfukutsuka119221@gmail.com]"/></a>
+</p>
 
 <br><br><br>
 
