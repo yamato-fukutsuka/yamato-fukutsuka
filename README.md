@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.facebook.com/yamato_fukutsuka" target="blank">
-   <i class="fa fa-facebook" style="font-size:30px; width:40px; color:#3B5998;"></i>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yamato_fuku" height="30" width="40" />
   </a>
 </p>
 
